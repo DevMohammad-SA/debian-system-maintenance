@@ -15,6 +15,12 @@ A simple Bash script that performs a complete system update and cleanup on Debia
 
 ---
 
+## Screenshots
+
+<img width="500" alt="debian-maintenance-script" src="https://github.com/user-attachments/assets/712f46df-080d-4ed7-a3c6-ec63e05cd53b" />
+
+---
+
 ## Usage
 
 1. Make the script executable:
